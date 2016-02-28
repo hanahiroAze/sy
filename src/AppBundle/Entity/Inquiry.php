@@ -2,6 +2,9 @@
 // this is merging test commit
 namespace AppBundle\Entity;
 // somthig added
+// somthig added
+// somthig added
+// somthig added
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Validator\Constraints As Assert;
 

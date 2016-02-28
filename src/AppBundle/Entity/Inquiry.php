@@ -1,5 +1,5 @@
 <?php
-
+// this is merging test commit
 namespace AppBundle\Entity;
 // somthig added
 use Doctrine\ORM\Mapping as ORM;

@@ -196,6 +196,11 @@ class Inquiry
 }
 
 <?php
+<?php
+<?php
+<?php
+<?php
+<?php
 
 namespace AppBundle\Entity;
 
